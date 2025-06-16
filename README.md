@@ -43,11 +43,11 @@ This repository contains the **web form** component of the system, which include
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/digital-literacy-web-platform.git
+   git clone https://github.com/contact-andy/DLC-Web-Platform.git
 
 2. Navigate to the project directory:
     ```bash
-    cd digital-literacy-web-platform
+    cd DLC-Web-Platform
 
 3. Install dependencies:
     ```bash
