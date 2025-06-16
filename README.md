@@ -1,5 +1,4 @@
-# Digital Literacy Content Development Project
-# Web Platform
+# Digital Literacy Content Development Project - Web Platform
 
 ## Overview
 
